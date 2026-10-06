@@ -1,0 +1,6 @@
+{
+  "name": "RN Fashion BD House",
+  "description": "প্রিমিয়াম বেনারসি, কাতান, জামদানি ও সিল্ক শাড়ির সংগ্রহ — RN Fashion BD House",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
